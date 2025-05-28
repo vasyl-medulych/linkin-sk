@@ -1,0 +1,24 @@
+/**
+  |============================
+  | include css partials with
+  | default @import url()
+  |============================
+*/
+/* Common styles */
+@import url('./reset.css');
+@import url('./base.css');
+@import url('./container.css');
+@import url('./animations.css');
+
+/* Sections style */
+@import url('./header.css');
+@import url('./burger-menu.css');
+@import url("./transform-life.css");
+@import url('./yoga-programs.css');
+@import url('./team.css');
+@import url("./breath-in-the-space.css");
+@import url('./yoga-helps.css');
+@import url('./testimonials.css');
+@import url('./price-plan.css');
+@import url('./footer.css');
+@import url('./checkout-modal.css');
